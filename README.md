@@ -1,1 +1,2 @@
 # iplanalysis
+This project analyzes historical match data from the Indian Premier League (IPL) to uncover insights about team performance, player statistics, win probabilities, and match trends. Using data analysis tools like Python, Pandas, and data visualization libraries, the project explores patterns such as top run scorers, most successful teams, and venue-based performance. The goal is to transform raw cricket data into meaningful insights through data analytics.
